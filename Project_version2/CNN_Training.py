@@ -1,6 +1,5 @@
 '''
-Names: Sanyukta Sanjay Kate (ssk8153@rit.edu)
-    Geeta Madhav Gali (gg6549@rit.edu)
+Names: Sanyukta Sanjay Kate
 
 References:
 1. http://learnandshare645.blogspot.in/2016/06/feeding-your-own-data-set-into-cnn.html
