@@ -1,6 +1,6 @@
 '''
 Names: Sanyukta Sanjay Kate
-        Geeta Madhav Gali
+       
 References:
 1. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 2. http://cs231n.github.io/convolutional-networks/
