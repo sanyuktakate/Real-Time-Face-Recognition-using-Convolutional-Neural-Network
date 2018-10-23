@@ -1,6 +1,5 @@
 '''
-Names: Sanyukta Sanjay Kate (ssk8153@rit.edu)
-       Geeta Madhav Gali (gg6549@rit.edu)
+Names: Sanyukta Sanjay Kate
 
 Reference:
 
