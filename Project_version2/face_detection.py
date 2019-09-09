@@ -1,7 +1,6 @@
 '''
 Names: Sanyukta Sanjay Kate (ssk8153@rit.edu)
-       Geeta Madhav Gali (gg6549@rit.edu)
-
+       
 Reference: https://realpython.com/blog/python/face-recognition-with-python/
 Referred from the blog given on the above link
 
